@@ -182,7 +182,7 @@ const projects = [
         color: "green-text-gradient",
       },
       {
-        name: "JaaScript",
+        name: "JavaScript",
         color: "pink-text-gradient",
       },
     ],
@@ -196,15 +196,15 @@ const projects = [
       "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
     tags: [
       {
-        name: "react",
+        name: "React Js",
         color: "blue-text-gradient",
       },
       {
-        name: "typescript",
+        name: "Typescript",
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "CSS",
         color: "pink-text-gradient",
       },
     ],
@@ -218,15 +218,15 @@ const projects = [
       "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
     tags: [
       {
-        name: "reactjs",
+        name: "React Js",
         color: "blue-text-gradient",
       },
       {
-        name: "typescript",
+        name: "Typescript",
         color: "green-text-gradient",
       },
       {
-        name: "tailwindcss",
+        name: "Tailwind CSS",
         color: "pink-text-gradient",
       },
     ],
